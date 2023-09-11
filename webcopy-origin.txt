@@ -1,0 +1,1132 @@
+Uri: https://dsathemes.com/html/martex_1.1/files/demo-3.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\demo-3.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/favicon.ico
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/apple-touch-icon-152x152.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/apple-touch-icon-120x120.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/apple-touch-icon-76x76.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/apple-touch-icon.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\css2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\css2-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\css2-2.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/bootstrap.min.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/flaticon.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\flaticon.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/menu.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\menu.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/dropdown-effects/fade-down.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\dropdown-effects\fade-down.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/magnific-popup.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/owl.carousel.min.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/owl.theme.default.min.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/lunar.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\lunar.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/animate.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\animate.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/skyblue-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\skyblue-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/blue-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\blue-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/crocus-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\crocus-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/green-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\green-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/magenta-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\magenta-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\pink-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/purple-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\purple-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/red-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\red-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/violet-theme.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\violet-theme.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/css/responsive.css
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\css\responsive.css
+Content Type: text/css
+
+Uri: https://dsathemes.com/html/martex_1.1/files/about.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\about.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/team.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\team.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/careers.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\careers.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/career-role.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\career-role.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/contacts.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\contacts.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/features.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\features.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/projects.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\projects.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/project-details.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\project-details.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/reviews.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\reviews.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/download.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\download.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/pricing-1.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\pricing-1.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/faqs.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\faqs.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/help-center.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\help-center.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/404.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\404.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/blog-listing.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\blog-listing.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/single-post.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\single-post.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/login-2.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\login-2.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/signup-2.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\signup-2.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/reset-password.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\reset-password.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/SZEflIVnhH8
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\embed\SZEflIVnhH8.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/integrations.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\integrations.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/terms.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\terms.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/privacy.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\privacy.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/cookies.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\cookies.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/blue.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\blue.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/pink.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\pink.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/purple.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\purple.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/violet.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\violet.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/crocus.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\crocus.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/magenta.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\magenta.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/green.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\green.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/red.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\red.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-skyblue.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-skyblue.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-skyblue-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-skyblue-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/tablet-01.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\tablet-01.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-06.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-06.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-09.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-09.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_04.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_04.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_04_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_04_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_05.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_05.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_05_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_05_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_02.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_02.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_02_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_02_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/tablet-02.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\tablet-02.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-10.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-10.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-02.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-02.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_06.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_06.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_06_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_06_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_07.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_07.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_07_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_07_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-1.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-2.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-5.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-8.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-8.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-1.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-1.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-1-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-1-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-2.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-2.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-3-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-3-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-4.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-4.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-4-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-4-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-5.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-5.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-5-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-5-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-6.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-6.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-6-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-6-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-7.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-7.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-7-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-7-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-8.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-8.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-8-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-8-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-9.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-9.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-9-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-9-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-1.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-1.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-2.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-2.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-3.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-3.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-4.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-4.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-5.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-5.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-05.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-05.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-08.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-08.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-04.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-04.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/modal-1-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\modal-1-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery-3.7.0.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/bootstrap.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/modernizr.custom.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery.easing.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery.easing.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery.appear.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/menu.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\menu.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/owl.carousel.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/pricing-toggle.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\pricing-toggle.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery.magnific-popup.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/request-form.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\request-form.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery.validate.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/jquery.ajaxchimp.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/popper.min.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/lunar.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\lunar.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/wow.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\wow.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/custom.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\custom.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/changer.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\changer.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/styleswitch.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\styleswitch.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/fonts/flaticon.ttf?99008aa38e7de407db084b96baa4b2a2
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://dsathemes.com/html/martex_1.1/files/fonts/flaticon.woff?99008aa38e7de407db084b96baa4b2a2
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://dsathemes.com/html/martex_1.1/files/fonts/flaticon.woff2?99008aa38e7de407db084b96baa4b2a2
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://dsathemes.com/html/martex_1.1/files/fonts/flaticon.eot?99008aa38e7de407db084b96baa4b2a2
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dsathemes.com/html/martex_1.1/files/fonts/flaticon.svg?99008aa38e7de407db084b96baa4b2a2
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/pattern-01.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\pattern-01.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/pattern-02.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\pattern-02.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/pattern-03.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\pattern-03.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/pattern-04.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\pattern-04.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/bg-01.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/bg-02.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/bg-03.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\bg-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/bg-04.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\bg-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/bg-05.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\bg-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blur-purple.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blur-purple.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-1.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-2.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-3.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-4.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-5.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-5.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-8.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-8.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-10.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-11.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-12.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-14.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-14.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-15.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-15.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-16.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-16.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-17.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-17.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-18.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-18.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-20.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-20.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-21.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-21.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-22.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-22.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-23.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-23.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-24.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-24.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-25.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-25.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-26.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-26.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-27.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-27.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/login.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\login.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/reset-password.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\reset-password.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/login-wrapper.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\login-wrapper.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/modal-request.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\modal-request.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-5-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-5-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-10-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-10-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-15-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-15-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-16-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-16-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-17-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-17-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-18-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-18-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-21-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-21-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-23-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-23-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-25-dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-25-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-27-dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-27-dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/login_dark.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\login_dark.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/demo-1.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\demo-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/7e90gBu4pas
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\embed\7e90gBu4pas.html
+Content Type: text/html
+
+Uri: https://themeforest.net/user/dsathemes/portfolio
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\user\dsathemes\portfolio.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/color-scheme/skyblue.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\color-scheme\skyblue.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-blue.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-blue.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-blue-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-blue-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/a2-1.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\a2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/a2-2.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\a2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/a2-3.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\a2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/a2-4.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\a2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-17.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-17.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-1.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-2.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-3.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-4.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-5.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-6.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-7.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-13.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-07.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-07.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-21.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-21.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-21-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-21-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-22.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-22.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-22-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-22-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-23.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-23.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/brand-23-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\brand-23-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-14.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-14.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-8-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-8-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-2-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-5-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-5-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-8.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-9.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-9.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-10.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-11.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/team-12.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\team-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-16.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-16.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-18.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-18.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/modal-newsletter-blue.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\modal-newsletter-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-black.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-black.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/contact-form.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\contact-form.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/signup-1.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\signup-1.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-03.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-03.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_01.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_01.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/f_01_dark.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\f_01_dark.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-6.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-6.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-7.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-7.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-8.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-8.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/tool-9.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\tool-9.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-01.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-02.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-03.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-04.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-05.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-06.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-10a.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-10a.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-11a.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-11a.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-08.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-07.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-10.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-11.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/projects/project-09.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\projects\project-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-6.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-6.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-3.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/download/example.zip
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\download\example.zip
+Content Type: application/zip
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/help.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\help.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/visa.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\visa.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/am.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\am.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/discover.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\discover.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/paypal.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\paypal.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/jcb.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\jcb.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/shopify.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\shopify.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/error-404.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\error-404.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-blog.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-blog.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-blog-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-blog-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-11-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-11-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-1-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-1-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-3-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-3-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-4-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-4-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-6-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-6-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-10-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-10-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-7-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-7-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-9-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-9-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-12-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-12-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-13-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-13-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/blog/post-14-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\blog\post-14-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/post-author.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\post-author.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/comment-author-1.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\comment-author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/comment-author-2.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\comment-author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/comment-author-3.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\comment-author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/comment-author-4.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\comment-author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/comment-form.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\comment-form.js
+Content Type: application/javascript
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/png_icons/google.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\png_icons\google.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/login-1.html
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\login-1.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/js/reset-form.js
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\js\reset-form.js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/watch?v=7e90gBu4pas
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\watch.html
+Content Type: text/html
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/dashboard-06.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\dashboard-06.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-pink.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-pink.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/logo-pink-white.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\logo-pink-white.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/hero-1-img.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\hero-1-img.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/dashboard-01.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\dashboard-01.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-13.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-13.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/img-19.png
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\img-19.png
+Content Type: image/png
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-4.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/review-author-7.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\review-author-7.jpg
+Content Type: image/jpeg
+
+Uri: https://dsathemes.com/html/martex_1.1/files/images/modal-2-img.jpg
+File Name: C:\Users\fika yazılım\Desktop\HTML Orijinal Temalar\dsathemes.com\html\martex_1.1\files\images\modal-2-img.jpg
+Content Type: image/jpeg
+
